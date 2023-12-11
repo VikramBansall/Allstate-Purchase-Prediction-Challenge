@@ -1,0 +1,2 @@
+DATASET DESCRIPTION
+The dataset is derived from the website: Kaggle. The goal of this dataset is to predict the cost associated with the insurer and/or the severity of the claim. It consists of 116 categorical features and 14 continuous features. There are 7000 data points in dataset. The training to test samples ratio is 75:25 The feature names or their properties are unknown. The last column is the loss is the target variable which we are trying to predict.
